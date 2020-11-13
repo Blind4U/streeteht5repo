@@ -16,4 +16,12 @@ tässä on main koodia
 #10 lisätty desktopilla
 10
 
+# aakkoset lisätty -laptop 
+a
+s
+d
+f
+g
+h
+
 loppu 
