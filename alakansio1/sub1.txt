@@ -6,5 +6,10 @@ tämä sisältää subi koodia
 # nämä numerot ovat turhia sub 2ssa. 
 # poistettu LapTopilla
 
+# nämä numero kuuluu sub 1seen -desktop
+
+5
+6
+
 
 loppu
