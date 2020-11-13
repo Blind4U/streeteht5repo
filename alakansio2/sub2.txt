@@ -10,7 +10,8 @@
 26
 27
 28
-
+# tänne pitää lisätä numero -laptop
+29
 
 
 
